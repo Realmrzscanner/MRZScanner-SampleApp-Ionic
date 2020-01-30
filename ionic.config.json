@@ -1,0 +1,7 @@
+{
+  "name": "HotelSampleIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
